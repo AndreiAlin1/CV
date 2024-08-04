@@ -17,3 +17,5 @@ Acesta este un proiect pentru un site web personal, creat folosind HTML și CSS,
 - **HTML5**: Structura paginii web.
 - **CSS3**: Stilizarea paginii web.
 - **Tailwind CSS**: Framework CSS pentru design responsiv și personalizat, stilizarea paginii web.
+
+## Puteti vizualiza site-ul pe urmatorul link: https://andreialin1.github.io/Cv-Andrei-Alin/ ##
